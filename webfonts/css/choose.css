@@ -1,0 +1,24 @@
+.icon{
+    padding-left: 3%;
+    padding-bottom: 1%
+}
+h1,h5{
+    text-align: center;
+}
+.con1{
+    background-color: antiquewhite; 
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.card{
+    height: 400px;
+    border: 0;
+}
+.fa{
+    font-size: 10rem;
+    text-align: end;
+}
+h5{
+    font-family: sans-serif;
+    font-size: 3rem;
+}
